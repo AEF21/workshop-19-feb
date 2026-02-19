@@ -21,9 +21,6 @@ Reapet
 Average = Total/ 3
    Print Average
 ´´´
-
-
-
 ### ✔Pseudocode
 ´´´ text
 Start  
@@ -37,7 +34,7 @@ End
                   
 ### ✔ Flowchart
 
- ![alt text](image.png)
+ ![image alt](https://github.com/AEF21/workshop-19-feb/blob/d90c9017e40dbd33c994b62be836e594c0c39e76/Task2.png)
 
 - - -
 
@@ -58,13 +55,8 @@ For i Form 1 to 10 Do
       End For 
       Print Newline 
       End For
-      End
-
-            
+      End           
 ´´´
-
-
-
 
 ### ✔ Pseudocode
 ´´´ text
@@ -80,7 +72,7 @@ Start
 
 
 ### ✔ Flowchart
-![alt text](image-2.png)
+![image alt](https://github.com/AEF21/workshop-19-feb/blob/8ea42f5b3229841b990ec8f90ee221bf40af067d/Task3.png)
 
 ## 4. Positive, Negative, or Zero Check
 
@@ -108,7 +100,7 @@ X=0
   End
 ´´´
 ### ✔ Flowchart
-![alt text](image-11.png)
+![image alt](https://github.com/AEF21/workshop-19-feb/blob/a498fcdfab3e9839775fb02b528241116297ac41/Task4.png)
 ---
 
 
@@ -158,7 +150,7 @@ Print " The Simple iereset is :",
 SI
 End
 ### ✔ Flowchart
-![alt text](image-4.png)
+![image alt](https://github.com/AEF21/workshop-19-feb/blob/0b1ced2f2bbf99107a079e142f83b7e99b5f7498/Task5.png)
 ---
 ## 6. Average Temperature Calculation
 
@@ -196,7 +188,7 @@ Total count = 1 to 7
 4. Display Avg Result
 5. End
 ### ✔ Flowchart
- ![alt text](image-7.png)
+ ![image alt](https://github.com/AEF21/workshop-19-feb/blob/1eced57a99a01fd5eecc2f617030292344f67347/Task6.png)
 ---
 
 ## 7. Calculate Area of a Rectangle
@@ -229,7 +221,7 @@ END
 
 
 ### ✔ Flowchart
-![alt text](image-6.png)
+![image alt](https://github.com/AEF21/workshop-19-feb/blob/f9c7238555c84900a7102842df9af7f190931ec1/Task7.png)
 
 ---
 
@@ -259,7 +251,7 @@ START
 
 END
 ### ✔ Flowchart
-![alt text](image-5.png)
+![image alt](https://github.com/AEF21/workshop-19-feb/blob/e08717d816f9c7963e0b8da264694e94c6d372dd/Task8.png)
 
 ---
 
@@ -297,7 +289,7 @@ END
 
 ---
 ### ✔ Flowchart
-![alt text](image-9.png)
+![image alt](https://github.com/AEF21/workshop-19-feb/blob/af31085aabf11e6d731629745977ba3c13d45b36/Task9.png)
 ## 10. Calculate Discount on Purchase
 
 Write the algorithm and draw the flowchart for a program that inputs the
@@ -332,7 +324,7 @@ BEGIN
 
 END
 ### ✔ Flowchart
-![alt text](image-10.png)
+![image alt](https://github.com/AEF21/workshop-19-feb/blob/ec533a10c8baba44308eda822a19b80e91923773/Task10.png)
 
 END
 
