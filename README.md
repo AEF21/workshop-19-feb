@@ -196,7 +196,7 @@ Total count = 1 to 7
 4. Display Avg Result
 5. End
 ### ✔ Flowchart
- ![alt text](image-7.png)
+ https://github.com/AEF21/workshop-19-feb/blob/1eced57a99a01fd5eecc2f617030292344f67347/Task6.png
 ---
 
 ## 7. Calculate Area of a Rectangle
