@@ -229,7 +229,7 @@ END
 
 
 ### ✔ Flowchart
-![alt text](image-6.png)
+https://github.com/AEF21/workshop-19-feb/blob/f9c7238555c84900a7102842df9af7f190931ec1/Task7.png
 
 ---
 
