@@ -297,7 +297,7 @@ END
 
 ---
 ### ✔ Flowchart
-![alt text](image-9.png)
+https://github.com/AEF21/workshop-19-feb/blob/66918f18f81c0d840c512f7cb07d20f421532fcf/image-9.png
 ## 10. Calculate Discount on Purchase
 
 Write the algorithm and draw the flowchart for a program that inputs the
