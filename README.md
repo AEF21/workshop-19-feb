@@ -158,7 +158,7 @@ Print " The Simple iereset is :",
 SI
 End
 ### ✔ Flowchart
-![alt text](image-4.png)
+https://github.com/AEF21/workshop-19-feb/blob/0b1ced2f2bbf99107a079e142f83b7e99b5f7498/Task5.png
 ---
 ## 6. Average Temperature Calculation
 
