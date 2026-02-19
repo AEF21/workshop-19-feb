@@ -80,7 +80,7 @@ Start
 
 
 ### ✔ Flowchart
-![alt text](image-2.png)
+https://github.com/AEF21/workshop-19-feb/blob/2eb510fee9e41cccdbf9a56064d7adde32b22c42/image-2.png
 
 ## 4. Positive, Negative, or Zero Check
 
