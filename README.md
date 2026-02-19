@@ -332,7 +332,7 @@ BEGIN
 
 END
 ### ✔ Flowchart
-![alt text](image-10.png)
+https://github.com/AEF21/workshop-19-feb/blob/ab84b44a8385d8c23d473a50821154be8b3acc6f/image-10.png
 
 END
 
