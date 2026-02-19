@@ -108,7 +108,7 @@ X=0
   End
 ´´´
 ### ✔ Flowchart
-![alt text](image-11.png)
+https://github.com/AEF21/workshop-19-feb/blob/3b063fcea0261c2395ee5ccbdc4909b967944d3d/image-11.png
 ---
 
 
