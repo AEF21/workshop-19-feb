@@ -59,20 +59,26 @@ For i Form 1 to 10 Do
 ´´´
 
 ### ✔ Pseudocode
+
+Table = (N x 1...10)
 ´´´ text
 Start
-    
-
-
-
-
-
-
-
+Outer Loop: End
+  Set Raw= 0 
+  Output: Print New Line
+  If Raw = << 10
+  Set Col = 1
+  No= If Innerline 10 
+  Print Raw col 
+  If No = col +1 
+  Count= DiaplY Multiplecation RESULT
+  END
+  ´´´
 
 
 ### ✔ Flowchart
 ![image alt](https://github.com/AEF21/workshop-19-feb/blob/8ea42f5b3229841b990ec8f90ee221bf40af067d/Task3.png)
+´´´
 
 ## 4. Positive, Negative, or Zero Check
 
@@ -83,10 +89,15 @@ it is positive, negative, or zero.
 
 ### Algorithms
 ´´´ text
-
-  
-´´´
-
+Start
+    Check Positive, Negative, or Zero
+    x = 0
+    If X > = 0
+    Display 0
+    Display Plus
+    No Display Minus
+    End
+    ´´´
 
 
 ### ✔Pseudocode
@@ -197,7 +208,7 @@ Create an algorithm and flowchart to input length and width, calculate
 the area (**Area = Length × Width**), and display the result.
 
 ### Algorithms
-´´´TextBEGIN
+´´´BEGIN
 
 1. Start
 2. Set i = (**Area = Length × Width**)
