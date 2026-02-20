@@ -1,11 +1,11 @@
 # Workshop: Algorithms and Flowchart
-´´´text
+´´´
 This is a workshop with 10 task, beginning will be on 2
   End
 ´´´
 
 ## 2. Calculate Total and Avreage Marks
-´´´text
+´´´
 Write the algorithm and draw the flowchart for a program that inputs
 marks for 3 subjects, calculates the total and average, and displays
 both.
@@ -13,7 +13,7 @@ both.
 ´´´  
 
 ### Algorithms
-´´´ text
+´´´ 
 Start
 Total, count = 0
 Reapet
