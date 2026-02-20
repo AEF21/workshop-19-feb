@@ -11,6 +11,7 @@ both.
 
 ### Algorithms
 ´´´ text
+Start
 Total, count = 0
 Reapet
   print"Input a Number"
@@ -20,6 +21,7 @@ Reapet
   Until cont= 3
 Average = Total/ 3
    Print Average
+   End
 ´´´
 ### ✔Pseudocode
 ´´´ text
@@ -59,7 +61,7 @@ For i Form 1 to 10 Do
 ´´´
 
 ### ✔ Pseudocode
-
+Start
 Table = (N x 1...10)
 ´´´ text
 Start
@@ -130,7 +132,7 @@ interest using the formula:
 
 ### Algorithems
 ´´´text
-
+Start
 **SI = (P × R × T) / 100**
 Input a program:
 - **P = Principal** → original amount of money
@@ -143,6 +145,7 @@ interest using the formula:
 **SI = (P × R × T) / 100**
 Display the calculated result (SI)
 Stop the Program
+End
 
 ### ✔Pseudocode
 ´´´text
@@ -175,7 +178,7 @@ Text
 - ** T = Temperature
 - ** D = Day
 Avg=( Sum T* / Sum D*)
-
+Start
 Total count = 1 to 7
       Print:"Enter Your Number"
       Read Number
